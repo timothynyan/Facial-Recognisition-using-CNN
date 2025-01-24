@@ -1,1 +1,4 @@
 /assets
+notebook/preprocessed_images.npy
+notebook/preprocessed_labels.npy
+notebook/__pycache__/data_processing.cpython-312.pyc
