@@ -2,3 +2,7 @@
 notebook/preprocessed_images.npy
 notebook/preprocessed_labels.npy
 notebook/__pycache__/data_processing.cpython-312.pyc
+data_cache/test_data.npy
+data_cache/test_labels.npy
+data_cache/train_data.npy
+data_cache/train_labels.npy
