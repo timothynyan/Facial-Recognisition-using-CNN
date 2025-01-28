@@ -6,3 +6,6 @@ data_cache/test_data.npy
 data_cache/test_labels.npy
 data_cache/train_data.npy
 data_cache/train_labels.npy
+notebook/__pycache__/cnn_architecture.cpython-312.pyc
+notebook/__pycache__/cnn_architecture.cpython-313.pyc
+notebook/__pycache__/data_pipeline.cpython-312.pyc
